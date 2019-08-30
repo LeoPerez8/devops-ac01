@@ -1,7 +1,6 @@
 # Melhores atletas
 Michael Jordan  
-Anderson Silva   
-Cristiano Ronaldo  
+Anderson Silva  
 Lionel Messi  
-----
-
+Cristiano Ronaldo  
+Neymar  
